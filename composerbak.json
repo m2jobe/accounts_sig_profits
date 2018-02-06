@@ -1,0 +1,12 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "stripe/stripe-php": "^5.9",
+        "facebook/graph-sdk": "^5.6",
+        "telegram-bot/api": "^2.3",
+        "restcord/restcord": "^0.1.4",
+        "league/oauth2-client": "^2.3",
+	"psecio/oauth2-discord": "^0.1"
+
+    }
+}

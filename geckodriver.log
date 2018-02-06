@@ -1,0 +1,538 @@
+1516217226999	geckodriver	INFO	geckodriver 0.19.1
+1516217227002	geckodriver	INFO	Listening on 127.0.0.1:51639
+1516217228243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.67OYgRKA7N6v"
+1516217235617	Marionette	INFO	Enabled via --marionette
+1516217244782	Marionette	INFO	Listening on port 37467
+1516217244837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217244888	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217245163	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217246214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217246214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217247865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.yahoo.com/?p=us"
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+JavaScript warning: https://mathid.mathtag.com/device/id.js, line 1: unreachable code after return statement
+1516217250346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1516217258057	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.yahoo.com/?p=us"
+[Child 18119, Chrome_ChildThread] WARNING: pipe error (16): Connection reset by peer: file /build/firefox-JSAO4L/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516217287770	geckodriver	INFO	geckodriver 0.19.1
+1516217287804	geckodriver	INFO	Listening on 127.0.0.1:52667
+1516217288997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RrqTesoZsULQ"
+1516217291126	Marionette	INFO	Enabled via --marionette
+1516217295099	Marionette	INFO	Listening on port 41533
+1516217295127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217295179	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217295197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217296126	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217296129	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217296884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.yahoo.com/?p=us"
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.18.5_23b0de6da0ee295131e32a500470610c_min.js, line 15: TypeError: X(...) is null
+1516217300168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1516217300240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1516217300686	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.yahoo.com/?p=us"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516217409137	geckodriver	INFO	geckodriver 0.19.1
+1516217409140	geckodriver	INFO	Listening on 127.0.0.1:34061
+1516217410298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fr48VSJz57Dp"
+1516217411231	Marionette	INFO	Enabled via --marionette
+1516217414524	Marionette	INFO	Listening on port 44797
+1516217414532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217414583	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217414780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217415527	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217415530	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217416252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516217416921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516217462907	geckodriver	INFO	geckodriver 0.19.1
+1516217462910	geckodriver	INFO	Listening on 127.0.0.1:33029
+1516217464066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jdu448FoZhwa"
+1516217464868	Marionette	INFO	Enabled via --marionette
+1516217468711	Marionette	INFO	Listening on port 43845
+1516217468787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217468839	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217468853	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217469683	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217469684	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217470002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516217470426	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516217490404	geckodriver	INFO	geckodriver 0.19.1
+1516217490411	geckodriver	INFO	Listening on 127.0.0.1:52453
+1516217491617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.veo21eVpu6jl"
+1516217493110	Marionette	INFO	Enabled via --marionette
+1516217500232	Marionette	INFO	Listening on port 36027
+1516217500262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217500313	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217501023	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217501347	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217501347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217501638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516217502250	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iwqp4/ye/l/en_GB/Q3w1lyx2DHA.js, line 627: unreachable code after return statement
+[Parent 18806, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-JSAO4L/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+1516217785598	geckodriver	INFO	geckodriver 0.19.1
+1516217785621	geckodriver	INFO	Listening on 127.0.0.1:38065
+1516217786965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rh2SLQ0U0zcC"
+1516217793598	Marionette	INFO	Enabled via --marionette
+1516217801384	Marionette	INFO	Listening on port 34575
+1516217801639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217801699	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217801976	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217803194	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217803194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217805392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516217806150	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516217807152	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516217807406	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516217807419	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516217807708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fwingedwireless%2F%3Fref%3Dbookmarks"
+1516217807709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1516217807991	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fwingedwireless%2F%3Fref%3Dbookmarks"
+1516217871567	geckodriver	INFO	geckodriver 0.19.1
+1516217871570	geckodriver	INFO	Listening on 127.0.0.1:38425
+1516217872749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.psKvhtQ7cn10"
+1516217873468	Marionette	INFO	Enabled via --marionette
+1516217877243	Marionette	INFO	Listening on port 35963
+1516217877429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516217877501	Marionette	DEBUG	Register listener.js for window 2147483649
+1516217877525	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516217877958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516217877960	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516217878316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516217878747	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516217884941	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516217885479	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516217885500	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516217885510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1516217885865	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516217886768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/?ref=bookmarks"
+1516217887569	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/?ref=bookmarks"
+1516217948683	Marionette	DEBUG	Register listener.js for window 2147483665
+1516217948852	Marionette	DEBUG	Register listener.js for window 4294967297
+1516218080390	geckodriver	INFO	geckodriver 0.19.1
+1516218080393	geckodriver	INFO	Listening on 127.0.0.1:43619
+1516218081548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dEICdTEwdvqy"
+1516218082348	Marionette	INFO	Enabled via --marionette
+1516218085743	Marionette	INFO	Listening on port 41759
+1516218086108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516218086158	Marionette	DEBUG	Register listener.js for window 2147483649
+1516218086217	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516218086683	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516218086683	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516218087072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516218087503	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516218090663	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516218090780	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516218090780	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516218091692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516218091692	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516218092102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/?ref=bookmarks"
+1516218092927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516218093530	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/?ref=bookmarks"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516218162959	geckodriver	INFO	geckodriver 0.19.1
+1516218162962	geckodriver	INFO	Listening on 127.0.0.1:48859
+1516218164287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fatz0BTF6uJl"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516218165810	Marionette	INFO	Enabled via --marionette
+1516218170184	Marionette	INFO	Listening on port 45353
+1516218170381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516218170436	Marionette	DEBUG	Register listener.js for window 2147483649
+1516218170462	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516218170827	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516218170830	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516218171127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516218171550	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516218637103	geckodriver	INFO	geckodriver 0.19.1
+1516218637115	geckodriver	INFO	Listening on 127.0.0.1:45667
+1516218638259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H6DrERSBqLSS"
+1516218639213	Marionette	INFO	Enabled via --marionette
+1516218642905	Marionette	INFO	Listening on port 36231
+1516218643131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516218643187	Marionette	DEBUG	Register listener.js for window 2147483649
+1516218657060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516218657394	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516218657399	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516218657829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fwingedwireless%2Fmembers%2F"
+1516218658164	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fwingedwireless%2Fmembers%2F"
+1516219878110	geckodriver	INFO	geckodriver 0.19.1
+1516219878122	geckodriver	INFO	Listening on 127.0.0.1:49969
+1516219879271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UA2sC0Y84Se1"
+1516219880069	Marionette	INFO	Enabled via --marionette
+1516219883262	Marionette	INFO	Listening on port 32885
+1516219883289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516219883337	Marionette	DEBUG	Register listener.js for window 2147483649
+1516219922490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516219922805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516219922806	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516219923130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516219923498	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516219972640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516219972711	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516219972740	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516219973368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1516219973369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1516219973370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516219973370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516219973519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516219974443	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516221321981	geckodriver	INFO	geckodriver 0.19.1
+1516221321988	geckodriver	INFO	Listening on 127.0.0.1:40559
+1516221323156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TBexcdDug2YF"
+1516221323885	Marionette	INFO	Enabled via --marionette
+1516221327303	Marionette	INFO	Listening on port 38337
+1516221327376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516221327433	Marionette	DEBUG	Register listener.js for window 2147483649
+1516221327458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516221328266	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516221328267	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516221328559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516221328977	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516221331987	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516221332051	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516221332051	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516221332056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/ajax/groups/members/remove.php?group_id=1079969722033850&uid=100001767343979&source=profile_browser"
+1516221332058	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/ajax/groups/members/remove.php?group_id=1079969722033850&uid=100001767343979&source=profile_browser"
+1516221896758	geckodriver	INFO	geckodriver 0.19.1
+1516221896761	geckodriver	INFO	Listening on 127.0.0.1:54849
+1516221897886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CbSf5fSGMdEH"
+1516221898591	Marionette	INFO	Enabled via --marionette
+1516221902207	Marionette	INFO	Listening on port 44511
+1516221902305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516221902363	Marionette	DEBUG	Register listener.js for window 2147483649
+1516221902382	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516221902999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516221903001	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516221903332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516221903786	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516221906761	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516221906839	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516221906843	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516221906864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/ajax/groups/members/remove.php?group_id=1079969722033850&uid=100001767343979&source=profile_browser"
+1516221906870	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/ajax/groups/members/remove.php?group_id=1079969722033850&uid=100001767343979&source=profile_browser"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516221932296	geckodriver	INFO	geckodriver 0.19.1
+1516221932298	geckodriver	INFO	Listening on 127.0.0.1:37491
+1516221933450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.drLm6ZPtPHVw"
+1516221934158	Marionette	INFO	Enabled via --marionette
+1516221937505	Marionette	INFO	Listening on port 45663
+1516221937702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516221937757	Marionette	DEBUG	Register listener.js for window 2147483649
+1516221937776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516221938265	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516221938266	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516221938896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516221939412	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516221942643	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516221942716	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516221942717	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516221943356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516221943409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516221944584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516221945220	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516222026220	geckodriver	INFO	geckodriver 0.19.1
+1516222026222	geckodriver	INFO	Listening on 127.0.0.1:34445
+1516222027394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YiqVPdm8X0ra"
+1516222028172	Marionette	INFO	Enabled via --marionette
+1516222032050	Marionette	INFO	Listening on port 46447
+1516222032118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516222032169	Marionette	DEBUG	Register listener.js for window 2147483649
+1516222032190	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516222032574	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516222032575	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516222032963	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516222033391	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516222036537	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516222036807	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516222036808	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516222037296	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516222037297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516222037412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516222039461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516222039952	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516222150368	geckodriver	INFO	geckodriver 0.19.1
+1516222150371	geckodriver	INFO	Listening on 127.0.0.1:34217
+1516222151524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bbXaIrFIpWDz"
+1516222152331	Marionette	INFO	Enabled via --marionette
+1516222156028	Marionette	INFO	Listening on port 36003
+1516222156044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516222156102	Marionette	DEBUG	Register listener.js for window 2147483649
+1516222156122	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516222157090	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516222157092	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516222157388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516222157796	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516222161052	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516222161145	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516222161146	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516222161890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516222161891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516222161895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516222163222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516222163695	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516222243476	geckodriver	INFO	geckodriver 0.19.1
+1516222243479	geckodriver	INFO	Listening on 127.0.0.1:49609
+1516222244640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uMVSPh8ZUo9U"
+1516222245406	Marionette	INFO	Enabled via --marionette
+1516222249561	Marionette	INFO	Listening on port 36101
+1516222249577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516222249634	Marionette	DEBUG	Register listener.js for window 2147483649
+1516222249653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516222250180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516222250181	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516222250495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516222250926	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516222254047	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516222254180	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516222254181	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516222254792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516222254792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516222254950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516222255915	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516222256345	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516222287311	geckodriver	INFO	geckodriver 0.19.1
+1516222287313	geckodriver	INFO	Listening on 127.0.0.1:60029
+1516222288475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PnELL3a4o1By"
+1516222289251	Marionette	INFO	Enabled via --marionette
+1516222292915	Marionette	INFO	Listening on port 45383
+1516222293000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516222293068	Marionette	DEBUG	Register listener.js for window 2147483649
+1516222293092	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516222293491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516222293494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516222293802	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516222294205	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516222297373	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516222297472	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516222297472	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516222298170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516222298170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516222298206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516222299630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+1516224814904	geckodriver	INFO	geckodriver 0.19.1
+1516224814907	geckodriver	INFO	Listening on 127.0.0.1:42863
+1516224816067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eB1Yc4wpnQAs"
+1516224816778	Marionette	INFO	Enabled via --marionette
+1516224820461	Marionette	INFO	Listening on port 45885
+1516224820489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516224820573	Marionette	DEBUG	Register listener.js for window 2147483649
+1516224820595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516224820939	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516224820940	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516224821285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516224821717	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516224825061	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516224825132	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516224825132	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516224825687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516224825784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516224826715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225022825	geckodriver	INFO	geckodriver 0.19.1
+1516225022828	geckodriver	INFO	Listening on 127.0.0.1:40757
+1516225023996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2bwsLUkn8K4O"
+1516225024703	Marionette	INFO	Enabled via --marionette
+1516225028410	Marionette	INFO	Listening on port 34457
+1516225028417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516225028470	Marionette	DEBUG	Register listener.js for window 2147483649
+1516225028652	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516225029026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516225029028	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516225029367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516225029813	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516225032608	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516225032727	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516225032727	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516225033190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516225033190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516225033723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225034908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1516225035353	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516225087557	geckodriver	INFO	geckodriver 0.19.1
+1516225087560	geckodriver	INFO	Listening on 127.0.0.1:32831
+1516225088684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.elHp5RLuYUFp"
+1516225089471	Marionette	INFO	Enabled via --marionette
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516225099843	geckodriver	INFO	geckodriver 0.19.1
+1516225099846	geckodriver	INFO	Listening on 127.0.0.1:35403
+1516225100981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7SLQJkEcX2iq"
+1516225101668	Marionette	INFO	Enabled via --marionette
+1516225105274	Marionette	INFO	Listening on port 44185
+1516225105476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516225105535	Marionette	DEBUG	Register listener.js for window 2147483649
+1516225105554	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516225105931	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516225105934	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516225106267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516225106671	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516225109900	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516225110004	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516225110008	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516225110468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516225110468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516225110575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225111565	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225124216	Marionette	DEBUG	Register listener.js for window 2147483661
+1516225124429	Marionette	DEBUG	Register listener.js for window 4294967297
+1516225148555	geckodriver	INFO	geckodriver 0.19.1
+1516225148557	geckodriver	INFO	Listening on 127.0.0.1:39191
+1516225149691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CS5AH2UeiKv7"
+1516225150646	Marionette	INFO	Enabled via --marionette
+1516225154338	Marionette	INFO	Listening on port 42511
+1516225154411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516225154463	Marionette	DEBUG	Register listener.js for window 2147483649
+1516225154477	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516225154882	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516225154885	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516225155193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516225155612	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516225159049	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516225159169	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516225159170	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516225159681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1516225159681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516225159828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225160940	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225310483	geckodriver	INFO	geckodriver 0.19.1
+1516225310486	geckodriver	INFO	Listening on 127.0.0.1:38793
+1516225311614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gz3rJijdvI1I"
+1516225312354	Marionette	INFO	Enabled via --marionette
+1516225315890	Marionette	INFO	Listening on port 42911
+1516225316051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516225316121	Marionette	DEBUG	Register listener.js for window 2147483649
+1516225316136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516225316468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516225316469	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516225316799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516225317224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516225332528	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516225332743	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516225332743	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516225333234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1516225333267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516225333314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225334474	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1516225334939	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 26488, Gecko_IOThread] WARNING: pipe error (127): Connection reset by peer: file /build/firefox-JSAO4L/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516225423414	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225423479	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225423491	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225424149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1516225424150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1516225424150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516225424208	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225425065	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516225796606	Marionette	DEBUG	Register listener.js for window 2147483674
+1516225796817	Marionette	DEBUG	Register listener.js for window 4294967297
+1516226206995	geckodriver	INFO	geckodriver 0.19.1
+1516226206997	geckodriver	INFO	Listening on 127.0.0.1:41281
+1516226208131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i1783ogvtbUm"
+1516226208848	Marionette	INFO	Enabled via --marionette
+1516226212643	Marionette	INFO	Listening on port 34043
+1516226212669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516226212758	Marionette	DEBUG	Register listener.js for window 2147483649
+1516226212776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516226213102	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516226213102	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516226213408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516226213897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516226216917	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516226217013	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516226217015	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516226217604	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1516226217804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516226218920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1516226219415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1516226368906	geckodriver	INFO	geckodriver 0.19.1
+1516226368909	geckodriver	INFO	Listening on 127.0.0.1:57213
+1516226370032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ePhkA5Yaguhc"
+1516226370733	Marionette	INFO	Enabled via --marionette
+[Child 27562, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-JSAO4L/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 27562, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-JSAO4L/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1516226374760	Marionette	INFO	Listening on port 34295
+1516226374853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516226374908	Marionette	DEBUG	Register listener.js for window 2147483649
+1516226374930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516226375295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516226375296	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516226375629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1516226376069	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1516226379087	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1516226379164	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1516226379166	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1516226379742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1516226380146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/groups/wingedwireless/members/"
+1516226380947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1516226381387	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/groups/wingedwireless/members/"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
